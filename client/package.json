@@ -36,13 +36,12 @@
     "redux-thunk": "^2.4.0",
     "sweetalert": "^2.1.2"
   },
-"scripts": {
-  "start": "react-scripts start",
-  "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-}
-
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": [
@@ -63,7 +62,6 @@
     ]
   },
   "engines": {
-  "node": "18.x"
-}
-
+    "node": "18.x"
+  }
 }
