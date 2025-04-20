@@ -30,14 +30,11 @@
     "react-redux": "^7.2.6",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.1",
-    "react-scripts": "^4.0.3",  // You may want to upgrade to a newer version of react-scripts
+    "react-scripts": "4.0.3",
     "react-webcam": "^6.0.0",
     "redux": "^4.1.2",
     "redux-thunk": "^2.4.0",
-    "sweetalert": "^2.1.2",
-    "@babel/core": "^7.16.0",  // Add or update Babel core version
-    "@babel/preset-react": "^7.16.0",  // Add preset-react if not already installed
-    "babel-preset-react-app": "^10.0.0"  // Update to the latest preset for React
+    "sweetalert": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
